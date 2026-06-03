@@ -39,3 +39,14 @@
 - HAProxy: 192.168.0.196  
 - Server 1: 192.168.0.196:8000  
 - Server 2: 192.168.0.230:8000  
+
+## Скриншоты
+
+### 1.1 Конфигурация HAProxy
+![Конфиг HAProxy](screenshots/1-1-haproxy.png)
+
+### 1.2 Статус HAProxy
+![Status HAProxy](screenshots/1-2-systemctl.png)
+
+### 1.3 Проверка балансировки
+![Балансировка](screenshots/1-3-balance.png)
