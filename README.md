@@ -43,10 +43,10 @@
 ## Скриншоты
 
 ### 1.1 Конфигурация HAProxy
-![HAProxy config](screenshots/1.1.png)
+![HAProxy config](1.1.png)
 
 ### 1.2 Статус HAProxy
-![HAProxy status](screenshots/1.2.png)
+![HAProxy status](1.2.png)
 
-### 1.3 Балансировка нагрузки
-![Load balancing](screenshots/1.3.png)
+### 1.3 Балансировка
+![Load balancing](1.3.png)
